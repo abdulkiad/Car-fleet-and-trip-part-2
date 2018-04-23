@@ -1,0 +1,7 @@
+15362566
+abdulrahman salim
+this program reads two files trips2.txt and cars2.txt
+and assigns with the following conditions:
+the vehicle has enough fuel/battery power to complete the trip,
+the vehicle has enough seats to take all the passengers on the trip
+cars on the longest trips should take the most economical car available
